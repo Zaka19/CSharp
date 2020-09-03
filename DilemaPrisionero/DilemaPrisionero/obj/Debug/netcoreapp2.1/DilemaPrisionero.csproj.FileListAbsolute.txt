@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\bin\Debug\netcoreapp2.1\DilemaPrisionero.deps.json
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\bin\Debug\netcoreapp2.1\DilemaPrisionero.runtimeconfig.json
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\bin\Debug\netcoreapp2.1\DilemaPrisionero.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\bin\Debug\netcoreapp2.1\DilemaPrisionero.dll
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\bin\Debug\netcoreapp2.1\DilemaPrisionero.pdb
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\obj\Debug\netcoreapp2.1\DilemaPrisionero.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\obj\Debug\netcoreapp2.1\DilemaPrisionero.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\obj\Debug\netcoreapp2.1\DilemaPrisionero.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\obj\Debug\netcoreapp2.1\DilemaPrisionero.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\obj\Debug\netcoreapp2.1\DilemaPrisionero.dll
+C:\Users\zzbakh\source\repos\DilemaPrisionero\DilemaPrisionero\obj\Debug\netcoreapp2.1\DilemaPrisionero.pdb

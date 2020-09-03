@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\bin\Debug\netcoreapp2.1\CustomGenericsç.deps.json
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\bin\Debug\netcoreapp2.1\CustomGenericsç.runtimeconfig.json
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\bin\Debug\netcoreapp2.1\CustomGenericsç.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\bin\Debug\netcoreapp2.1\CustomGenericsç.dll
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\bin\Debug\netcoreapp2.1\CustomGenericsç.pdb
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\obj\Debug\netcoreapp2.1\CustomGenericsç.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\obj\Debug\netcoreapp2.1\CustomGenericsç.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\obj\Debug\netcoreapp2.1\CustomGenericsç.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\obj\Debug\netcoreapp2.1\CustomGenericsç.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\obj\Debug\netcoreapp2.1\CustomGenericsç.dll
+C:\Users\zzbakh\source\repos\CustomGenericsç\CustomGenericsç\obj\Debug\netcoreapp2.1\CustomGenericsç.pdb

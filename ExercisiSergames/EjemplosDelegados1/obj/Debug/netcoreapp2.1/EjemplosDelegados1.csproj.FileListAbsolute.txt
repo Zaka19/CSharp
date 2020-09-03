@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\bin\Debug\netcoreapp2.1\EjemplosDelegados1.deps.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\bin\Debug\netcoreapp2.1\EjemplosDelegados1.runtimeconfig.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\bin\Debug\netcoreapp2.1\EjemplosDelegados1.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\bin\Debug\netcoreapp2.1\EjemplosDelegados1.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\bin\Debug\netcoreapp2.1\EjemplosDelegados1.pdb
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\obj\Debug\netcoreapp2.1\EjemplosDelegados1.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\obj\Debug\netcoreapp2.1\EjemplosDelegados1.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\obj\Debug\netcoreapp2.1\EjemplosDelegados1.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\obj\Debug\netcoreapp2.1\EjemplosDelegados1.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\obj\Debug\netcoreapp2.1\EjemplosDelegados1.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemplosDelegados1\obj\Debug\netcoreapp2.1\EjemplosDelegados1.pdb

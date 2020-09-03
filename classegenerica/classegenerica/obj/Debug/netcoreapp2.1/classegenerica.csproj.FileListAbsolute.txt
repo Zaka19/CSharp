@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\bin\Debug\netcoreapp2.1\classegenerica.deps.json
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\bin\Debug\netcoreapp2.1\classegenerica.runtimeconfig.json
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\bin\Debug\netcoreapp2.1\classegenerica.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\bin\Debug\netcoreapp2.1\classegenerica.dll
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\bin\Debug\netcoreapp2.1\classegenerica.pdb
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\obj\Debug\netcoreapp2.1\classegenerica.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\obj\Debug\netcoreapp2.1\classegenerica.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\obj\Debug\netcoreapp2.1\classegenerica.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\obj\Debug\netcoreapp2.1\classegenerica.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\obj\Debug\netcoreapp2.1\classegenerica.dll
+C:\Users\zzbakh\source\repos\classegenerica\classegenerica\obj\Debug\netcoreapp2.1\classegenerica.pdb

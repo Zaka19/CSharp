@@ -1,0 +1,14 @@
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\Juego.exe
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\Juego.deps.json
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\Juego.runtimeconfig.json
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\Juego.runtimeconfig.dev.json
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\Juego.dll
+C:\Users\zzbakh\Documents\Games\Juego\Juego\bin\Release\netcoreapp2.1\win10-x64\Juego.pdb
+C:\Users\zzbakh\Documents\Games\Juego\Juego\obj\Release\netcoreapp2.1\win10-x64\Juego.csprojAssemblyReference.cache
+C:\Users\zzbakh\Documents\Games\Juego\Juego\obj\Release\netcoreapp2.1\win10-x64\Juego.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\Documents\Games\Juego\Juego\obj\Release\netcoreapp2.1\win10-x64\Juego.AssemblyInfoInputs.cache
+C:\Users\zzbakh\Documents\Games\Juego\Juego\obj\Release\netcoreapp2.1\win10-x64\Juego.AssemblyInfo.cs
+C:\Users\zzbakh\Documents\Games\Juego\Juego\obj\Release\netcoreapp2.1\win10-x64\Juego.dll
+C:\Users\zzbakh\Documents\Games\Juego\Juego\obj\Release\netcoreapp2.1\win10-x64\Juego.pdb

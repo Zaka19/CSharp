@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\bin\Debug\netcoreapp2.1\JuegoDeTorretas.deps.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\bin\Debug\netcoreapp2.1\JuegoDeTorretas.runtimeconfig.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\bin\Debug\netcoreapp2.1\JuegoDeTorretas.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\bin\Debug\netcoreapp2.1\JuegoDeTorretas.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\bin\Debug\netcoreapp2.1\JuegoDeTorretas.pdb
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\obj\Debug\netcoreapp2.1\JuegoDeTorretas.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\obj\Debug\netcoreapp2.1\JuegoDeTorretas.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\obj\Debug\netcoreapp2.1\JuegoDeTorretas.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\obj\Debug\netcoreapp2.1\JuegoDeTorretas.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\obj\Debug\netcoreapp2.1\JuegoDeTorretas.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\JuegoDeTorretas\obj\Debug\netcoreapp2.1\JuegoDeTorretas.pdb

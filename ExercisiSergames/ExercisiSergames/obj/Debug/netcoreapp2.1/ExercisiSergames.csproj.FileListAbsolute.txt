@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\bin\Debug\netcoreapp2.1\ExercisiSergames.deps.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\bin\Debug\netcoreapp2.1\ExercisiSergames.runtimeconfig.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\bin\Debug\netcoreapp2.1\ExercisiSergames.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\bin\Debug\netcoreapp2.1\ExercisiSergames.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\bin\Debug\netcoreapp2.1\ExercisiSergames.pdb
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\obj\Debug\netcoreapp2.1\ExercisiSergames.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\obj\Debug\netcoreapp2.1\ExercisiSergames.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\obj\Debug\netcoreapp2.1\ExercisiSergames.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\obj\Debug\netcoreapp2.1\ExercisiSergames.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\obj\Debug\netcoreapp2.1\ExercisiSergames.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\ExercisiSergames\obj\Debug\netcoreapp2.1\ExercisiSergames.pdb

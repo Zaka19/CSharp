@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\bin\Debug\netcoreapp2.1\StringMetodos.deps.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\bin\Debug\netcoreapp2.1\StringMetodos.runtimeconfig.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\bin\Debug\netcoreapp2.1\StringMetodos.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\bin\Debug\netcoreapp2.1\StringMetodos.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\bin\Debug\netcoreapp2.1\StringMetodos.pdb
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\obj\Debug\netcoreapp2.1\StringMetodos.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\obj\Debug\netcoreapp2.1\StringMetodos.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\obj\Debug\netcoreapp2.1\StringMetodos.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\obj\Debug\netcoreapp2.1\StringMetodos.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\obj\Debug\netcoreapp2.1\StringMetodos.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\StringMetodos\obj\Debug\netcoreapp2.1\StringMetodos.pdb

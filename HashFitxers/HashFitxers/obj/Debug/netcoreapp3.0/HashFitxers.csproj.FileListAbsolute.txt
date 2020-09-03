@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\bin\Debug\netcoreapp3.0\HashFitxers.exe
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\bin\Debug\netcoreapp3.0\HashFitxers.deps.json
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\bin\Debug\netcoreapp3.0\HashFitxers.runtimeconfig.json
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\bin\Debug\netcoreapp3.0\HashFitxers.runtimeconfig.dev.json
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\bin\Debug\netcoreapp3.0\HashFitxers.dll
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\bin\Debug\netcoreapp3.0\HashFitxers.pdb
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\obj\Debug\netcoreapp3.0\HashFitxers.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\obj\Debug\netcoreapp3.0\HashFitxers.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\obj\Debug\netcoreapp3.0\HashFitxers.AssemblyInfo.cs
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\obj\Debug\netcoreapp3.0\HashFitxers.dll
+C:\Users\USER\source\repos\HashFitxers\HashFitxers\obj\Debug\netcoreapp3.0\HashFitxers.pdb

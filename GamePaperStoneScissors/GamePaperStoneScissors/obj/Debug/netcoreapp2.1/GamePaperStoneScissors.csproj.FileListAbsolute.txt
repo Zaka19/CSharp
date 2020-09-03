@@ -1,0 +1,14 @@
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\GamePaperStoneScissors.deps.json
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\GamePaperStoneScissors.runtimeconfig.json
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\GamePaperStoneScissors.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\GamePaperStoneScissors.dll
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\GamePaperStoneScissors.pdb
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\bin\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.csproj.CopyComplete
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.dll
+C:\Users\zzbakh\source\repos\GamePaperStoneScissors\GamePaperStoneScissors\obj\Debug\netcoreapp2.1\GamePaperStoneScissors.pdb

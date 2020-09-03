@@ -1,0 +1,4 @@
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploDelegados\obj\Debug\netcoreapp2.1\EjemploDelegados.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploDelegados\obj\Debug\netcoreapp2.1\EjemploDelegados.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploDelegados\obj\Debug\netcoreapp2.1\EjemploDelegados.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploDelegados\obj\Debug\netcoreapp2.1\EjemploDelegados.AssemblyInfo.cs

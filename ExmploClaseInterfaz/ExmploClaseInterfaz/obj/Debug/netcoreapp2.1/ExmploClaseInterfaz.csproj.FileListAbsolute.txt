@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\bin\Debug\netcoreapp2.1\ExmploClaseInterfaz.deps.json
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\bin\Debug\netcoreapp2.1\ExmploClaseInterfaz.runtimeconfig.json
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\bin\Debug\netcoreapp2.1\ExmploClaseInterfaz.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\bin\Debug\netcoreapp2.1\ExmploClaseInterfaz.dll
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\bin\Debug\netcoreapp2.1\ExmploClaseInterfaz.pdb
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\obj\Debug\netcoreapp2.1\ExmploClaseInterfaz.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\obj\Debug\netcoreapp2.1\ExmploClaseInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\obj\Debug\netcoreapp2.1\ExmploClaseInterfaz.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\obj\Debug\netcoreapp2.1\ExmploClaseInterfaz.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\obj\Debug\netcoreapp2.1\ExmploClaseInterfaz.dll
+C:\Users\zzbakh\source\repos\ExmploClaseInterfaz\ExmploClaseInterfaz\obj\Debug\netcoreapp2.1\ExmploClaseInterfaz.pdb

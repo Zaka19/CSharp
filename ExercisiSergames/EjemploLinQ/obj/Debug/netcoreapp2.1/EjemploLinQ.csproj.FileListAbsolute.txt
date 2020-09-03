@@ -1,0 +1,11 @@
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\bin\Debug\netcoreapp2.1\EjemploLinQ.deps.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\bin\Debug\netcoreapp2.1\EjemploLinQ.runtimeconfig.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\bin\Debug\netcoreapp2.1\EjemploLinQ.runtimeconfig.dev.json
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\bin\Debug\netcoreapp2.1\EjemploLinQ.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\bin\Debug\netcoreapp2.1\EjemploLinQ.pdb
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\obj\Debug\netcoreapp2.1\EjemploLinQ.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\obj\Debug\netcoreapp2.1\EjemploLinQ.AssemblyInfoInputs.cache
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\obj\Debug\netcoreapp2.1\EjemploLinQ.AssemblyInfo.cs
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\obj\Debug\netcoreapp2.1\EjemploLinQ.dll
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\obj\Debug\netcoreapp2.1\EjemploLinQ.pdb
+C:\Users\zzbakh\source\repos\ExercisiSergames\EjemploLinQ\obj\Debug\netcoreapp2.1\EjemploLinQ.csprojAssemblyReference.cache

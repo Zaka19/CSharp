@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\bin\Debug\ParalelProgram.exe.config
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\bin\Debug\ParalelProgram.exe
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\bin\Debug\ParalelProgram.pdb
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.Form1.resources
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.Properties.Resources.resources
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.exe
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.pdb
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\ParalelProgram\ParalelProgram\obj\Debug\ParalelProgram.csproj.CopyComplete
